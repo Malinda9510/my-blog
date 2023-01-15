@@ -7,6 +7,8 @@ education:
   enable: true
   title: Formal Education
   education_list:
+  - name: University of Moratuwa
+    content: Following MSc in Information Technology
   - name: University of Kelaniya
     content: Bachelor of Business Management (Special) Degree in Accountancy  with
       a First-class Honours
