@@ -7,6 +7,8 @@ education:
   enable: true
   title: Formal Education
   education_list:
+  - name: CA
+    content: CA Finalist
   - name: CIMA Sri Lanka
     content: CIMA Finalist
   - name: AAT Sri Lanka
