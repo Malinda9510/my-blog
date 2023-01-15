@@ -7,6 +7,8 @@ education:
   enable: true
   title: Formal Education
   education_list:
+  - name: CIMA Sri Lanka
+    content: CIMA Finalist
   - name: AAT Sri Lanka
     content: Passed Finalist of AAT Sri Lanka
   - name: University of Moratuwa
