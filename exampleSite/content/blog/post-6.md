@@ -1,7 +1,7 @@
 ---
 title: 'Impact of IT and Accounting Knowledge on Accounting Information Systems '
 description: meta description
-image: "/images/gettyimages-1333810802.jpg"
+image: "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
 date: 2022-12-30T12:19:25+00:00
 categories:
 - Accounting
