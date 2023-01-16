@@ -2,7 +2,7 @@
 title: IT has had a Significant Impact on the Sri Lankan Education Sector
 description: meta description
 image: "/images/aaron-burden-6jyoil2ghvk-unsplash.jpg"
-date: 2021-01-24T12:19:25+00:00
+date: 2022-11-10T12:19:25+00:00
 categories: []
 type: featured
 
