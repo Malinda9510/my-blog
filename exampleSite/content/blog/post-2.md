@@ -1,7 +1,7 @@
 ---
 title: Blockchain Technology has the Potential to Revolutionize the Accounting Field
 description: meta description
-image: "/images/700-x-394.png"
+image: "/images/shubham-dhage-_rznchsifuq-unsplash.jpg"
 date: 2022-12-18T12:19:25+00:00
 categories:
 - IT
