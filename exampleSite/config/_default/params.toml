@@ -36,12 +36,12 @@ theme_copyright = true
 image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
-background_image = "yellow-and-red-modern-business-coach-blog-banner-1.png"
+background_image = "/images/a14c5a50148648d5925a5d7b7b259bb6-1.png"
 button_label = "Know About Me"
 button_link = "about/"
 content = "Welcome to the Blog of Accounting in the Digital World"
 enable = true
-image = "yellow-and-red-modern-business-coach-blog-banner-1.png"
+image = "/images/a14c5a50148648d5925a5d7b7b259bb6-1.png"
 title_large = "Welcome **!**"
 title_small = "to Malinda Herath Blog"
 [cookies]
