@@ -13,7 +13,7 @@ favicon = ""
 featured_post_button = "Featured"
 featured_post_title = "Featured Post"
 footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
-image = ""
+image = "/images/a14c5a50148648d5925a5d7b7b259bb6-1.jpg"
 logo = ""
 logo_text = ""
 logo_width = "150x"
@@ -29,7 +29,7 @@ read_more_button = "Read more"
 recent_post_button = "Recent"
 recent_post_title = "Recent Post"
 related_posts = "Related Posts"
-search = false
+search = true
 showing_posts = "Showing Post From"
 theme_copyright = true
 [advertisement]
