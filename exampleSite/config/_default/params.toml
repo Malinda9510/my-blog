@@ -1,86 +1,128 @@
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
-address = "Dalugama, Kelaniya"
-author = "Malinda Herath"
-categories_title = "Blog Categories"
-contact_form_action = "#"
-copyright = "Copyright by your company"
-custom_script = ""
-description = "This is meta description"
-email = "nayanajithherath95@mail.com"
-error_404_button = "Back To Home"
-error_404_text = "404 Page Not Found!"
-favicon = ""
-featured_post_button = "Featured"
-featured_post_title = "Featured Post"
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
-image = "/images/a14c5a50148648d5925a5d7b7b259bb6-1.jpg"
-logo = ""
-logo_text = ""
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `x` with logo_width, example: "100x".
+# Note: logo_width is not work with .svg file
 logo_width = "150x"
-mainSections = ["blog"]
-mobile = "+94713713691"
+# logo text will only show when logo is missing.
+logo_text = "Geeky"
+# navbar fixed to top
 navbar_fixed = false
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Themefisher"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact info
+address = "9567 Turner Trace Apt. BC C3G8A4"
+mobile = "+211234565523"
+email = "info@email.com"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# search
+search = true
+
+# Posts related Titles & Contents
+categories_title = "Blog Categories"
+posts_title = "Featured"
+featured_post_title = "Featured Post"
+recent_post_title = "Recent Post"
+featured_post_button = "Featured"
+recent_post_button = "Recent"
+read_more_button = "Read more"
+previous_button = "Previous"
 next_button = "Next"
+related_posts = "Related Posts"
+showing_posts = "Showing Post From"
 no_categories_found = "No Categories Found"
 no_tags_found = "No Tags Found"
-posts_title = "Featured"
-previous_button = "Previous"
-read_more_button = "Read more"
-recent_post_button = "Recent"
-recent_post_title = "Recent Post"
-related_posts = "Related Posts"
-search = true
-showing_posts = "Showing Post From"
+
+mainSections = ["blog"]
+# about widget content
+about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+# footer content
+footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= ""
+# copyright
 theme_copyright = true
+copyright = "Copyright by your company"
+
+# 404
+error_404_text = "404 Page Not Found!"
+error_404_button = "Back To Home"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Banner
+[banner]
+enable = true
+title_large = "Welcome **!**"
+title_small = "to Jhon Bravo Blog"
+image = "images/banner.png"
+background_image = "/images/banner-bg-shape.svg"
+content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+button_label = "Know About Me"
+button_link = "about/"
+
+# Advertise
 [advertisement]
 image = "images/promotion.png"
 link = "https://gethugothemes.com/"
-[banner]
-background_image = "/images/a14c5a50148648d5925a5d7b7b259bb6-1.png"
-button_label = "Know About Me"
-button_link = "about/"
-content = "Welcome to the Blog of Accounting in the Digital World"
-enable = true
-image = "/images/a14c5a50148648d5925a5d7b7b259bb6-1.png"
-title_large = "Welcome **!**"
-title_small = "to Malinda Herath Blog"
+
+# cookies
 [cookies]
-button = "I Accept"
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
 enable = false
 expire_days = 2
-[preloader]
-enable = false
-preloader = ""
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["about", "categories", "recent-post", "newsletter"]
+# available widget : about,categories,newsletter,recent-post
+
+
+# Subscription
 [subscription]
 enable = false
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
-newsletter_button = "Sign in"
+newsletter_title = "Newsletter"
 newsletter_invitation = "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!"
 newsletter_placeholder = "Type And Hit Enter"
 newsletter_reminder_a = "By Singing Up, You Agree To"
 newsletter_reminder_b = "Privacy Policy"
-newsletter_title = "Newsletter"
-[widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
+newsletter_button = "Sign in"
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+
+############################# social site ########################
 [[social]]
-icon = "fab fa-facebook"
-link = "#"
 title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[social]]
 title = "twitter"
-[[social]]
-icon = "fab fa-instagram"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[social]]
 title = "instagram"
-[[social]]
-icon = "fab fa-github"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
+
+[[social]]
 title = "github"
-[[social]]
-icon = "fab fa-linkedin"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
+
+[[social]]
 title = "linkedin"
+icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
