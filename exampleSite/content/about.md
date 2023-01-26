@@ -1,20 +1,16 @@
 ---
 title: About The Author
 description: this is meta-description
-image: images/author.png
+image: "/images/ce2_8940.JPG"
 layout: about
 education:
   enable: true
   title: Formal Education
   education_list:
-  - name: Southeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Northeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Easteast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-  - name: Southeast University
-    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: CA Sri Lanka
+    content: CA Finalist
+  - name: AAT Sri Lanka
+    content: AAT Passed Finalist
 experience:
   enable: true
   title: Work Experience
