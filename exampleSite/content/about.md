@@ -7,6 +7,12 @@ education:
   enable: true
   title: Formal Education
   education_list:
+  - name: Faculty of Information Technology - University of Moratuwa
+    content: Following MSc in Information Technology
+  - name: Department of Accountancy- University of Kelaniya
+    content: B.B.Mgt.(Special) Degree in Accounting
+  - name: CIMA Sri Lanka
+    content: CIMA Finalist
   - name: CA Sri Lanka
     content: CA Finalist
   - name: AAT Sri Lanka
