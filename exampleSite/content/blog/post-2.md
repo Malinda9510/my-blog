@@ -3,7 +3,8 @@ title: Blockchain Technology has the Potential to Revolutionize the Accounting F
 description: meta description
 image: "/images/shubham-dhage-hyxj0yqa_8q-unsplash.jpg"
 date: 2022-12-02T12:19:25+00:00
-categories: []
+categories:
+- Accounting
 type: featured
 
 ---
