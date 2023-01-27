@@ -3,7 +3,8 @@ title: Artificial Intelligence and Robotics
 description: meta description
 image: images/post/post-1.png
 date: 2022-01-02T12:16:25+00:00
-categories: []
+categories:
+- IT
 type: regular
 
 ---
