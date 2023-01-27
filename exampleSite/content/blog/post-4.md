@@ -4,7 +4,8 @@ title: Information Technology (IT) has had a significant impact on the Sri Lanka
 description: meta description
 image: "/images/aaron-burden-6jyoil2ghvk-unsplash-1.jpg"
 date: 2022-12-27T12:19:25+00:00
-categories: []
+categories:
+- Education
 type: featured
 
 ---
