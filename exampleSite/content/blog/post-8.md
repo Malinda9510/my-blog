@@ -3,7 +3,8 @@ title: 'Importance of Accounting Information System Degree '
 description: meta description
 image: "/images/christopher-gower-m_hrflhgabo-unsplash.jpg"
 date: 2022-12-31T12:19:25+00:00
-categories: []
+categories:
+- AIS
 type: regular
 
 ---
