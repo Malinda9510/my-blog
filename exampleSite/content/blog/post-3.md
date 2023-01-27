@@ -4,7 +4,8 @@ title: 'Data mining and predictive analytics are becoming increasingly important
 description: meta description
 image: "/images/luke-chesser-jkutrj4vk00-unsplash.jpg"
 date: 2022-12-08T12:19:25+00:00
-categories: []
+categories:
+- IT
 type: featured
 
 ---
