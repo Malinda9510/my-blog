@@ -41,7 +41,7 @@ button_label = "Know About Me"
 button_link = "about/"
 content = "IT and accounting are like two sides of the same coin. IT provides the tools and technology to streamline financial processes, while accounting ensures the accuracy and integrity of the financial data. Together, they allow businesses to make informed decisions and stay ahead in the game. It's a powerful combination that leads to greater efficiency, security and success."
 enable = true
-image = "/images/it-accounting-pro.mp4"
+image = "/images/malinda.png"
 title_large = "Welcome **!**"
 title_small = "to my Blog"
 [cookies]
