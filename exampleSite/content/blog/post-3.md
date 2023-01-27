@@ -5,7 +5,7 @@ description: meta description
 image: "/images/luke-chesser-jkutrj4vk00-unsplash.jpg"
 date: 2022-12-08T12:19:25+00:00
 categories:
-- IT
+- Information Technology
 type: featured
 
 ---
