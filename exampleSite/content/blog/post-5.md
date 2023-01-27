@@ -3,7 +3,8 @@ title: Online and distance learning have become increasingly popular
 description: meta description
 image: "/images/compare-fibre-y8tilvknleg-unsplash.jpg"
 date: 2022-12-20T12:19:25+00:00
-categories: []
+categories:
+- Education
 type: featured
 
 ---
