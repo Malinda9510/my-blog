@@ -3,7 +3,8 @@ title: Impact of IT and Accounting Knowledge on Accounting Information Systems
 description: meta description
 image: "/images/headway-5qgiuubxkwm-unsplash.jpg"
 date: 2022-12-07T12:19:25+00:00
-categories: []
+categories:
+- AIS
 type: featured
 
 ---
