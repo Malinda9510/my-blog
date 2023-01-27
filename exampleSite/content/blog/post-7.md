@@ -3,7 +3,8 @@ title: Student evaluation is an essential part of the educational process in uni
 description: meta description
 image: "/images/jeshoots-com-2vd8lihdnw-unsplash.jpg"
 date: 2022-12-15T12:19:25+00:00
-categories: []
+categories:
+- Education
 type: regular
 
 ---
