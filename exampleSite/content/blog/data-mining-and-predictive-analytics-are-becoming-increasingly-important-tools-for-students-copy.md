@@ -1,10 +1,10 @@
 +++
 categories = ["Information Technology"]
-date = 2022-12-08T12:19:25Z
+date = 2023-01-10T12:09:25Z
 description = "meta description"
 draft = true
 image = "/images/owen-beard-k21dn4ovxnw-unsplash.jpg"
-title = ""
+title = "ChatGPT is a powerful language model developed by OpenAI"
 type = "featured"
 
 +++
