@@ -2,7 +2,6 @@
 categories = ["ERP"]
 date = 2023-01-21T11:19:25Z
 description = "meta description"
-draft = true
 image = "/images/blake-wisz-te6th1h6bfk-unsplash.jpg"
 title = "Learning about ERP systems is becoming increasingly important for accounting undergraduates"
 type = "regular"
